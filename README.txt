@@ -22,3 +22,13 @@ Deployment:
 5. No build command is required.
 
 This site is a learning companion and does not replace official Ontario curriculum documents, school guidance, or official graduation audits.
+
+
+ACCOUNT & FORUM EXTENSION
+- signup.html / signin.html / password reset
+- profile.html
+- forum.html / thread.html / new-post.html
+- community-rules.html
+- moderation.html
+- supabase-schema.sql
+- See AUTH_FORUM_SETUP.md for setup.

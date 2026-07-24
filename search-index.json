@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Grade 9 Essentials",
+    "subject": "Grade 9",
+    "keywords": "Grade 9 Essentials Grade 9",
+    "summary": "Science and mathematics definitions, formulas, laws, examples, and quizzes.",
+    "url": "grade-9.html"
+  },
+  {
+    "title": "Grade 10 Essentials",
+    "subject": "Grade 10",
+    "keywords": "Grade 10 Essentials Grade 10",
+    "summary": "Science and mathematics definitions, formulas, laws, examples, and quizzes.",
+    "url": "grade-10.html"
+  },
+  {
+    "title": "Grade 11 Essentials",
+    "subject": "Grade 11",
+    "keywords": "Grade 11 Essentials Grade 11",
+    "summary": "Senior physics, chemistry, biology, functions, and environmental pathways.",
+    "url": "grade-11.html"
+  },
+  {
+    "title": "Grade 12 Essentials",
+    "subject": "Grade 12",
+    "keywords": "Grade 12 Essentials Grade 12",
+    "summary": "Advanced science, functions, calculus, and vectors.",
+    "url": "grade-12.html"
+  },
+  {
+    "title": "Mathematics Library",
+    "subject": "Mathematics",
+    "keywords": "Mathematics Library Mathematics",
+    "summary": "Algebra, geometry, trigonometry, functions, data, finance, calculus, and vectors.",
+    "url": "math-library.html"
+  },
+  {
+    "title": "Science Library",
+    "subject": "Science",
+    "keywords": "Science Library Science",
+    "summary": "Biology, chemistry, physics, Earth and space, definitions, laws, formulas, and examples.",
+    "url": "science-library.html"
+  },
+  {
+    "title": "English & Literacy",
+    "subject": "English",
+    "keywords": "English & Literacy English",
+    "summary": "Reading, writing, research, media literacy, oral communication, and OSSLT.",
+    "url": "english-literacy.html"
+  },
+  {
+    "title": "History, Geography & Civics",
+    "subject": "Canadian and World Studies",
+    "keywords": "History, Geography & Civics Canadian and World Studies",
+    "summary": "Evidence, history, geography, government, law, rights, and citizenship.",
+    "url": "social-studies.html"
+  },
+  {
+    "title": "Economics & Business",
+    "subject": "Business",
+    "keywords": "Economics & Business Business",
+    "summary": "Economics, accounting, entrepreneurship, and financial literacy.",
+    "url": "economics-business.html"
+  },
+  {
+    "title": "Technology & Computing",
+    "subject": "Technology",
+    "keywords": "Technology & Computing Technology",
+    "summary": "Computer science, cybersecurity, engineering, accessibility, and trades.",
+    "url": "technology-computing.html"
+  },
+  {
+    "title": "Formula & Theorem Centre",
+    "subject": "Reference",
+    "keywords": "Formula & Theorem Centre Reference",
+    "summary": "Search mathematics, science, finance, calculus, and vector formulas.",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "High School Glossary",
+    "subject": "Reference",
+    "keywords": "High School Glossary Reference",
+    "summary": "Cross-subject definitions.",
+    "url": "glossary.html"
+  },
+  {
+    "title": "Graduation Planner",
+    "subject": "Planning",
+    "keywords": "Graduation Planner Planning",
+    "summary": "OSSD credits, literacy, community involvement, online learning, and financial literacy.",
+    "url": "graduation.html"
+  },
+  {
+    "title": "Course Planner",
+    "subject": "Planning",
+    "keywords": "Course Planner Planning",
+    "summary": "Plan Grade 9–12 courses, credits, prerequisites, and pathways.",
+    "url": "course-planner.html"
+  },
+  {
+    "title": "Student Forum",
+    "subject": "Community",
+    "keywords": "Student Forum Community",
+    "summary": "Subject discussions, reporting, and moderation.",
+    "url": "forum.html"
+  },
+  {
+    "title": "Historical significance",
+    "subject": "Historical thinking",
+    "keywords": "Judge significance using impact, duration, relevance, and what it reveals about the past.",
+    "summary": "The importance assigned to an event, person, development, or idea.",
+    "url": "social-studies.html#hist-significance"
+  },
+  {
+    "title": "Primary source",
+    "subject": "Evidence",
+    "keywords": "Evaluate creator, purpose, audience, context, limitations, and corroboration.",
+    "summary": "Evidence created during the period studied or by a direct participant or witness.",
+    "url": "social-studies.html#primary-source"
+  },
+  {
+    "title": "Cause and consequence",
+    "subject": "Historical thinking",
+    "keywords": "Distinguish long-term conditions, immediate triggers, intended effects, and unintended consequences.",
+    "summary": "The relationship between conditions or actions and the results that followed.",
+    "url": "social-studies.html#cause-consequence"
+  },
+  {
+    "title": "Continuity and change",
+    "subject": "Historical thinking",
+    "keywords": "Consider pace, direction, turning points, and differences among groups.",
+    "summary": "What remained similar and what changed across time.",
+    "url": "social-studies.html#continuity-change"
+  },
+  {
+    "title": "Treaties and treaty relationships",
+    "subject": "Canada",
+    "keywords": "Study written and oral understandings, historical context, implementation, and continuing legal and moral responsibilities.",
+    "summary": "Agreements between Indigenous nations and the Crown establishing ongoing rights, responsibilities, and relationships.",
+    "url": "social-studies.html#treaties"
+  },
+  {
+    "title": "Canadian Confederation",
+    "subject": "Canada",
+    "keywords": "Examine political compromise, economics, defence, federalism, expansion, and effects on peoples excluded from negotiations.",
+    "summary": "The 1867 union that created the Dominion of Canada from four provinces.",
+    "url": "social-studies.html#confederation"
+  },
+  {
+    "title": "Industrial Revolution",
+    "subject": "World history",
+    "keywords": "It transformed labour, class, population, empire, technology, and the environment.",
+    "summary": "A long shift toward mechanized production, factories, urbanization, and new transportation systems.",
+    "url": "social-studies.html#industrial-revolution"
+  },
+  {
+    "title": "Imperialism",
+    "subject": "World history",
+    "keywords": "It may involve settlement, force, unequal trade, resource extraction, and cultural suppression.",
+    "summary": "The extension of political, economic, or cultural control over other peoples or territories.",
+    "url": "social-studies.html#imperialism"
+  },
+  {
+    "title": "First World War",
+    "subject": "Canada & World",
+    "keywords": "Analyze militarism, alliances, imperialism, nationalism, total war, home fronts, and consequences.",
+    "summary": "A global war fought mainly from 1914 to 1918 among rival alliances.",
+    "url": "social-studies.html#ww1"
+  },
+  {
+    "title": "Great Depression",
+    "subject": "Canada & World",
+    "keywords": "Study financial instability, falling demand, unemployment, drought, poverty, and policy responses.",
+    "summary": "A severe worldwide economic downturn beginning in 1929 and lasting through much of the 1930s.",
+    "url": "social-studies.html#depression"
+  },
+  {
+    "title": "Second World War",
+    "subject": "Canada & World",
+    "keywords": "Core issues include fascism, aggression, the Holocaust, genocide, resistance, total war, and postwar institutions.",
+    "summary": "A global war from 1939 to 1945 between the Axis and Allied powers.",
+    "url": "social-studies.html#ww2"
+  },
+  {
+    "title": "Cold War",
+    "subject": "World history",
+    "keywords": "It included nuclear deterrence, proxy wars, alliances, propaganda, espionage, and science competition.",
+    "summary": "A long geopolitical and ideological rivalry after 1945, especially between the United States and Soviet Union.",
+    "url": "social-studies.html#cold-war"
+  },
+  {
+    "title": "Truth and Reconciliation",
+    "subject": "Canada",
+    "keywords": "Centre survivor testimony, Indigenous rights, the Calls to Action, local treaty relationships, and present responsibilities.",
+    "summary": "An ongoing process of truth-telling, acknowledgement, repair, and renewed relationships after colonial harms, including residential schools.",
+    "url": "social-studies.html#reconciliation"
+  },
+  {
+    "title": "Latitude and longitude",
+    "subject": "Map skills",
+    "keywords": "Latitude measures north or south of the equator; longitude measures east or west of the prime meridian.",
+    "summary": "A coordinate system used to describe locations on Earth.",
+    "url": "social-studies.html#latlong"
+  },
+  {
+    "title": "Geographic Information System (GIS)",
+    "subject": "Geospatial skills",
+    "keywords": "GIS layers can combine population, land use, transport, hazards, and environmental information.",
+    "summary": "A system for storing, analyzing, and displaying geographically referenced data.",
+    "url": "social-studies.html#gis"
+  },
+  {
+    "title": "Population density",
+    "subject": "Human geography",
+    "keywords": "Density does not show how evenly people are distributed inside an area.",
+    "summary": "Population divided by land area.",
+    "url": "social-studies.html#density"
+  },
+  {
+    "title": "Urbanization",
+    "subject": "Human geography",
+    "keywords": "Analyze employment, migration, infrastructure, housing, environment, and inequality.",
+    "summary": "Growth in the share of people living in urban areas and expansion of cities.",
+    "url": "social-studies.html#urbanization"
+  },
+  {
+    "title": "Sustainability",
+    "subject": "Environment",
+    "keywords": "Good analysis examines trade-offs, equity, scale, evidence, and long-term effects.",
+    "summary": "Meeting present needs while maintaining ecological, social, and economic systems for the future.",
+    "url": "social-studies.html#sustainability"
+  },
+  {
+    "title": "Democracy",
+    "subject": "Government",
+    "keywords": "It also depends on rights, rule of law, participation, accountability, and access to reliable information.",
+    "summary": "A system in which people exercise political power directly or through elected representatives.",
+    "url": "social-studies.html#democracy"
+  },
+  {
+    "title": "Federalism",
+    "subject": "Government",
+    "keywords": "Canada assigns responsibilities to federal and provincial governments; municipalities receive authority from provinces.",
+    "summary": "A system dividing law-making powers between national and regional governments.",
+    "url": "social-studies.html#federalism"
+  },
+  {
+    "title": "Canadian Charter of Rights and Freedoms",
+    "subject": "Rights",
+    "keywords": "Rights may involve justified limits, court interpretation, and remedies.",
+    "summary": "Part of the Constitution Act, 1982 protecting specified rights and freedoms.",
+    "url": "social-studies.html#charter"
+  },
+  {
+    "title": "Rule of law",
+    "subject": "Law",
+    "keywords": "It supports accountability, due process, predictability, and limits on arbitrary power.",
+    "summary": "The principle that individuals and governments are governed by publicly known laws applied through lawful institutions.",
+    "url": "social-studies.html#rule-law"
+  },
+  {
+    "title": "Public policy",
+    "subject": "Citizenship",
+    "keywords": "Compare goals, evidence, cost, feasibility, rights, benefits, harms, and effects on groups.",
+    "summary": "A course of action chosen by government to address a public issue.",
+    "url": "social-studies.html#policy"
+  },
+  {
+    "title": "Thesis statement",
+    "subject": "Writing",
+    "keywords": "It should be specific enough to organize evidence and broad enough to support several reasons.",
+    "summary": "A clear, arguable central claim answering the task and guiding the response.",
+    "url": "english-literacy.html#thesis"
+  },
+  {
+    "title": "Evidence-based paragraph",
+    "subject": "Writing",
+    "keywords": "PEEL, PEE, CER, and similar structures all require reasoning, not just quotation.",
+    "summary": "A paragraph that makes a point, supports it, explains the evidence, and links to the argument.",
+    "url": "english-literacy.html#paragraph"
+  },
+  {
+    "title": "Inference",
+    "subject": "Reading",
+    "keywords": "An inference must be plausible and traceable to evidence.",
+    "summary": "A conclusion supported by textual clues and relevant background knowledge.",
+    "url": "english-literacy.html#inference"
+  },
+  {
+    "title": "Tone",
+    "subject": "Reading",
+    "keywords": "Infer tone through diction, imagery, structure, emphasis, and context.",
+    "summary": "The writer’s or speaker’s attitude toward the subject or audience.",
+    "url": "english-literacy.html#tone"
+  },
+  {
+    "title": "Bias and framing",
+    "subject": "Media literacy",
+    "keywords": "Identify bias, then corroborate factual claims with other reliable evidence.",
+    "summary": "The influence of perspective, selection, emphasis, language, or interests on presentation.",
+    "url": "english-literacy.html#bias"
+  },
+  {
+    "title": "Paraphrasing",
+    "subject": "Research",
+    "keywords": "Read, close the source, explain from understanding, verify accuracy, and cite.",
+    "summary": "Restating an idea fully in your own wording and structure while citing the source.",
+    "url": "english-literacy.html#paraphrase"
+  },
+  {
+    "title": "Counterargument",
+    "subject": "Argument",
+    "keywords": "Accurate counterarguments strengthen credibility and analysis.",
+    "summary": "A relevant objection or alternative position considered fairly and answered with reasoning.",
+    "url": "english-literacy.html#counterargument"
+  },
+  {
+    "title": "Scarcity",
+    "subject": "Foundations",
+    "keywords": "Scarcity forces choices and creates opportunity costs.",
+    "summary": "Resources are limited while wants and possible uses are numerous.",
+    "url": "economics-business.html#scarcity"
+  },
+  {
+    "title": "Opportunity cost",
+    "subject": "Foundations",
+    "keywords": "It can include time, resources, experience, and money.",
+    "summary": "The value of the best alternative given up when a choice is made.",
+    "url": "economics-business.html#opportunity"
+  },
+  {
+    "title": "Demand",
+    "subject": "Markets",
+    "keywords": "Price changes move along a demand curve; non-price factors shift it.",
+    "summary": "Quantities consumers are willing and able to buy at various prices during a period.",
+    "url": "economics-business.html#demand"
+  },
+  {
+    "title": "Supply",
+    "subject": "Markets",
+    "keywords": "Input costs, technology, expectations, sellers, and policy can shift supply.",
+    "summary": "Quantities producers are willing and able to sell at various prices during a period.",
+    "url": "economics-business.html#supply"
+  },
+  {
+    "title": "Market equilibrium",
+    "subject": "Markets",
+    "keywords": "Shortages put upward pressure on price; surpluses put downward pressure.",
+    "summary": "The price and quantity where quantity demanded equals quantity supplied.",
+    "url": "economics-business.html#equilibrium"
+  },
+  {
+    "title": "Price elasticity of demand",
+    "subject": "Markets",
+    "keywords": "Elastic demand changes proportionally more; inelastic demand changes less.",
+    "summary": "Responsiveness of quantity demanded to a percentage change in price.",
+    "url": "economics-business.html#elasticity"
+  },
+  {
+    "title": "Gross domestic product (GDP)",
+    "subject": "Macroeconomics",
+    "keywords": "GDP does not measure all well-being, unpaid work, equality, or environmental quality.",
+    "summary": "Market value of final goods and services produced within a country during a period.",
+    "url": "economics-business.html#gdp"
+  },
+  {
+    "title": "Inflation",
+    "subject": "Macroeconomics",
+    "keywords": "It reduces purchasing power and is commonly estimated from a price index.",
+    "summary": "A sustained increase in the general price level.",
+    "url": "economics-business.html#inflation"
+  },
+  {
+    "title": "Compound interest",
+    "subject": "Personal finance",
+    "keywords": "Rate, time, compounding frequency, and fees all matter.",
+    "summary": "Interest calculated on principal plus accumulated interest.",
+    "url": "economics-business.html#compound"
+  },
+  {
+    "title": "Diversification",
+    "subject": "Personal finance",
+    "keywords": "It reduces some risk but cannot guarantee profit or eliminate market risk.",
+    "summary": "Spreading investments across assets to reduce concentration risk.",
+    "url": "economics-business.html#diversification"
+  },
+  {
+    "title": "Algorithm",
+    "subject": "Computer science",
+    "keywords": "Good algorithms are correct, clear, testable, and appropriately efficient.",
+    "summary": "A finite ordered set of steps for solving a problem.",
+    "url": "technology-computing.html#algorithm"
+  },
+  {
+    "title": "Variable and data type",
+    "subject": "Programming",
+    "keywords": "Types such as number, string, and Boolean determine valid operations.",
+    "summary": "A named storage location whose value has a type.",
+    "url": "technology-computing.html#variable"
+  },
+  {
+    "title": "Selection and iteration",
+    "subject": "Programming",
+    "keywords": "Conditions must be testable and loops need a correct stopping condition.",
+    "summary": "Selection chooses among paths; iteration repeats instructions.",
+    "url": "technology-computing.html#control"
+  },
+  {
+    "title": "Function",
+    "subject": "Programming",
+    "keywords": "Functions improve decomposition, testing, reuse, and readability.",
+    "summary": "A reusable block of code for a specific task, often with inputs and an output.",
+    "url": "technology-computing.html#function"
+  },
+  {
+    "title": "Testing and debugging",
+    "subject": "Programming",
+    "keywords": "Use normal, boundary, invalid, and edge cases.",
+    "summary": "Testing checks behaviour; debugging finds and fixes the cause of failure.",
+    "url": "technology-computing.html#debug"
+  },
+  {
+    "title": "Cybersecurity fundamentals",
+    "subject": "Digital literacy",
+    "keywords": "Use unique passwords, MFA, updates, backups, least privilege, and phishing awareness.",
+    "summary": "Practices protecting systems, accounts, and data.",
+    "url": "technology-computing.html#cyber"
+  },
+  {
+    "title": "Engineering design process",
+    "subject": "Technology",
+    "keywords": "Use criteria, constraints, measurement, safety, sustainability, and user needs.",
+    "summary": "Define, research, ideate, prototype, test, improve, and communicate.",
+    "url": "technology-computing.html#design"
+  },
+  {
+    "title": "Accessibility by design",
+    "subject": "Technology",
+    "keywords": "Consider keyboard navigation, captions, contrast, structure, labels, and alternatives.",
+    "summary": "Designing so people with diverse abilities can use a product or environment.",
+    "url": "technology-computing.html#access"
+  },
+  {
+    "title": "Distributive property",
+    "subject": "Algebra",
+    "keywords": "a(b+c)=ab+ac",
+    "summary": "Expand/factor",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Difference of squares",
+    "subject": "Algebra",
+    "keywords": "a²−b²=(a−b)(a+b)",
+    "summary": "Factor",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Quadratic formula",
+    "subject": "Algebra",
+    "keywords": "x=(−b±√(b²−4ac))/(2a)",
+    "summary": "Solve quadratics",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Slope",
+    "subject": "Coordinate geometry",
+    "keywords": "m=(y₂−y₁)/(x₂−x₁)",
+    "summary": "Rate of change",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Distance",
+    "subject": "Coordinate geometry",
+    "keywords": "d=√[(x₂−x₁)²+(y₂−y₁)²]",
+    "summary": "Two points",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Pythagorean theorem",
+    "subject": "Geometry",
+    "keywords": "a²+b²=c²",
+    "summary": "Right triangles",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Triangle area",
+    "subject": "Geometry",
+    "keywords": "A=½bh",
+    "summary": "Perpendicular height",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Circle circumference",
+    "subject": "Geometry",
+    "keywords": "C=2πr=πd",
+    "summary": "Distance around",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Circle area",
+    "subject": "Geometry",
+    "keywords": "A=πr²",
+    "summary": "Area inside",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Polygon angle sum",
+    "subject": "Geometry",
+    "keywords": "(n−2)180°",
+    "summary": "Interior angles",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Sine ratio",
+    "subject": "Trigonometry",
+    "keywords": "sinθ=opposite/hypotenuse",
+    "summary": "Right triangles",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Cosine ratio",
+    "subject": "Trigonometry",
+    "keywords": "cosθ=adjacent/hypotenuse",
+    "summary": "Right triangles",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Tangent ratio",
+    "subject": "Trigonometry",
+    "keywords": "tanθ=opposite/adjacent",
+    "summary": "Right triangles",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Sine law",
+    "subject": "Trigonometry",
+    "keywords": "a/sinA=b/sinB=c/sinC",
+    "summary": "Non-right triangles",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Cosine law",
+    "subject": "Trigonometry",
+    "keywords": "c²=a²+b²−2ab cosC",
+    "summary": "SAS/SSS",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Average rate of change",
+    "subject": "Functions",
+    "keywords": "[f(b)−f(a)]/(b−a)",
+    "summary": "Interval change",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Simple interest",
+    "subject": "Finance",
+    "keywords": "I=Prt",
+    "summary": "No compounding",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Compound amount",
+    "subject": "Finance",
+    "keywords": "A=P(1+i)ⁿ",
+    "summary": "Periodic growth",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Speed",
+    "subject": "Physics",
+    "keywords": "v=d/t",
+    "summary": "Motion",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Acceleration",
+    "subject": "Physics",
+    "keywords": "a=Δv/Δt",
+    "summary": "Velocity change",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Newton’s second law",
+    "subject": "Physics",
+    "keywords": "Fnet=ma",
+    "summary": "Force and motion",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Work",
+    "subject": "Physics",
+    "keywords": "W=Fd cosθ",
+    "summary": "Energy transfer",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Kinetic energy",
+    "subject": "Physics",
+    "keywords": "Ek=½mv²",
+    "summary": "Motion energy",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Potential energy",
+    "subject": "Physics",
+    "keywords": "Eg=mgh",
+    "summary": "Near Earth",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Momentum",
+    "subject": "Physics",
+    "keywords": "p=mv",
+    "summary": "Momentum",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Ohm’s law",
+    "subject": "Electricity",
+    "keywords": "V=IR",
+    "summary": "Circuits",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Power",
+    "subject": "Electricity",
+    "keywords": "P=VI",
+    "summary": "Electrical power",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Wave speed",
+    "subject": "Waves",
+    "keywords": "v=fλ",
+    "summary": "Wave relation",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Moles",
+    "subject": "Chemistry",
+    "keywords": "n=m/M",
+    "summary": "Mass to amount",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Concentration",
+    "subject": "Chemistry",
+    "keywords": "c=n/V",
+    "summary": "Molarity",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Ideal gas law",
+    "subject": "Chemistry",
+    "keywords": "PV=nRT",
+    "summary": "Gas state",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Derivative definition",
+    "subject": "Calculus",
+    "keywords": "f′(a)=lim[h→0](f(a+h)−f(a))/h",
+    "summary": "Instantaneous rate",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Power rule",
+    "subject": "Calculus",
+    "keywords": "d/dx(xⁿ)=nxⁿ⁻¹",
+    "summary": "Differentiate powers",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Product rule",
+    "subject": "Calculus",
+    "keywords": "(fg)′=f′g+fg′",
+    "summary": "Products",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Chain rule",
+    "subject": "Calculus",
+    "keywords": "d/dx f(g(x))=f′(g(x))g′(x)",
+    "summary": "Composites",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Magnitude",
+    "subject": "Vectors",
+    "keywords": "|v|=√(v₁²+v₂²+v₃²)",
+    "summary": "Vector length",
+    "url": "formula-theorem-centre.html"
+  },
+  {
+    "title": "Dot product",
+    "subject": "Vectors",
+    "keywords": "a·b=|a||b|cosθ",
+    "summary": "Angle/projection",
+    "url": "formula-theorem-centre.html"
+  }
+]
