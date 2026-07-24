@@ -1,15 +1,16 @@
-Ontario Science Explorer - Grades 5–12
+Ontario STEM Explorer — Vercel Static Site
 
-Static Vercel-ready website.
+Main enhancement:
+- grade-8.html is now a searchable Grade 8 study guide
+- Definitions: Physics, Chemistry, Biology, Mathematics, Earth & Space
+- Laws, theories, and principles
+- Formula reference with units and examples
+- Interactive 12-question quiz
+- Works as a static Vercel deployment with no build command
 
-Main pages:
-index.html
-topics.html
-grade-5.html through grade-12.html
-
-Includes animated GIF concepts for atoms, matter, chemistry, Newton's laws,
-electricity, magnetism and induction.
-
-Curriculum organization is a high-level learning map aligned to Ontario's current
-Grades 1–8 Science and Technology (2022), Grade 9 SNC1W (2022), and secondary
-science pathways for Grades 10–12. It is not an official Ministry publication.
+Deploy:
+1. Extract this ZIP.
+2. Upload all files to a GitHub repository.
+3. Import the repository into Vercel.
+4. Framework preset: Other / Static.
+5. No build command is required.

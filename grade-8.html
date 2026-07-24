@@ -1,6 +1,34 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Grade 8 Science — Ontario Science Explorer</title><link rel="stylesheet" href="styles.css"></head><body>
-<nav><div class="nav"><a class="brand" href="index.html">🔬 Ontario Science Explorer</a><div class="links"><a href="index.html">Home</a><a href="topics.html">Topics</a><a href="grade-5.html">5</a><a href="grade-6.html">6</a><a href="grade-7.html">7</a><a href="grade-8.html">8</a><a href="grade-9.html">9</a><a href="grade-10.html">10</a><a href="grade-11.html">11</a><a href="grade-12.html">12</a></div></div></nav>
-<header><div class="eyebrow">Ontario Science • Grade 8</div><h1>Grade 8 Science</h1><p class="subtitle">Prepare for high-school science with systems, fluids, cells, and energy.</p></header>
-<main class="topic-grid"><section class="card"><img src="13_states_of_matter.gif" alt="Fluids animation"><div class="content"><span class="tag">Grade 8</span><h2>Fluids</h2><p>Viscosity, density, buoyancy, pressure, and fluid systems.</p></div></section><section class="card"><img src="07_atom_structure.gif" alt="Cells animation"><div class="content"><span class="tag">Grade 8</span><h2>Cells</h2><p>Cell structures, functions, tissues, organs, and systems.</p></div></section><section class="card"><img src="15_newtons_three_laws.gif" alt="Systems in Action animation"><div class="content"><span class="tag">Grade 8</span><h2>Systems in Action</h2><p>Mechanical systems, input/output forces, work, efficiency, and system design.</p></div></section><section class="card"><img src="13_states_of_matter.gif" alt="Water Systems animation"><div class="content"><span class="tag">Grade 8</span><h2>Water Systems</h2><p>Watersheds, water quality, climate connections, and human impacts.</p></div></section><section class="card"><img src="14_physical_chemical_changes.gif" alt="Chemical Change Preview animation"><div class="content"><span class="tag">Grade 8</span><h2>Chemical Change Preview</h2><p>Physical vs chemical changes, atoms, compounds, and simple reaction models.</p></div></section></main>
-<div class="nextprev"><a class="button" href="grade-7.html">← Previous</a><a class="button" href="grade-9.html">Next →</a></div>
-<footer>High-level curriculum-aligned learning map; course pathways and local sequencing may vary.</footer></body></html>
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Grade 8 STEM Essentials — Ontario Learning Companion</title>
+<meta name="description" content="Grade 8 definitions, laws, formulas, examples, and quizzes for physics, chemistry, biology, mathematics, and Earth science.">
+<link rel="stylesheet" href="styles.css"></head><body>
+<nav><div class="nav"><a class="brand" href="index.html">🔬 Ontario STEM Explorer</a><div class="links"><a href="index.html">Home</a><a href="topics.html">Topics</a><a href="grade-7.html">Grade 7</a><a href="grade-8.html">Grade 8</a><a href="grade-9.html">Grade 9</a></div></div></nav>
+<header><div class="eyebrow">Grade 8 • Complete Study Essentials</div><h1>Definitions, Laws & Formulas</h1>
+<p class="subtitle">A searchable Grade 8 reference for Physics, Chemistry, Biology, Mathematics, and Earth & Space Science—with examples and a self-check quiz.</p></header>
+<div class="curriculum-note"><strong>Ontario alignment:</strong> Grade 8 Science and Technology is organized around STEM Skills and Connections, Life Systems, Matter and Energy, Structures and Mechanisms, and Earth and Space Systems. Grade 8 Mathematics includes number, algebra, data, spatial sense, and financial literacy. This learning companion also includes carefully labelled high-school readiness material.</div>
+<div class="quick-nav"><a href="#physics">Physics</a><a href="#chemistry">Chemistry</a><a href="#biology">Biology</a><a href="#math">Math</a><a href="#earth">Earth & Space</a><a href="#lawsSection">Laws</a><a href="#formulasSection">Formulas</a><a href="#quizSection">Quiz</a></div>
+<main class="study-shell">
+<div class="study-toolbar"><div class="toolbar-inner">
+<input id="search" class="search" type="search" placeholder="Search a term, law, formula, or example…">
+<button class="filter-btn active" data-filter="all">All</button>
+<button class="filter-btn" data-filter="definitions">Definitions</button>
+<button class="filter-btn" data-filter="physics">Physics</button>
+<button class="filter-btn" data-filter="chemistry">Chemistry</button>
+<button class="filter-btn" data-filter="biology">Biology</button>
+<button class="filter-btn" data-filter="math">Math</button>
+<button class="filter-btn" data-filter="earth">Earth</button>
+<button class="filter-btn" data-filter="laws">Laws</button>
+<button class="filter-btn" data-filter="formulas">Formulas</button>
+<button class="filter-btn" data-filter="quiz">Quiz</button>
+</div></div>
+<div id="definitionSections"></div>
+<section id="lawsSection" class="subject-section"><div class="subject-head"><div class="subject-icon">📜</div><div><h2>Laws, Theories & Principles</h2><p>Core scientific and mathematical relationships an eighth grader should recognize and explain.</p></div></div><div id="lawsGrid" class="laws-grid"></div></section>
+<section id="formulasSection" class="subject-section"><div class="subject-head"><div class="subject-icon">🧮</div><div><h2>Formula Reference</h2><p>Meaning, units, and a worked mini-example for each formula.</p></div></div>
+<div class="table-wrap"><table><thead><tr><th>Concept</th><th>Formula</th><th>Units</th><th>Example</th></tr></thead><tbody id="formulaBody"></tbody></table></div></section>
+<section id="quizSection" class="subject-section"><div class="subject-head"><div class="subject-icon">✅</div><div><h2>Knowledge Check</h2><p>Answer the questions, then reveal the correct answers and your score.</p></div></div>
+<div id="quizWrap" class="quiz-wrap"></div><div class="quiz-actions"><button id="checkQuiz" class="button">Check answers</button><span id="score" class="score"></span></div></section>
+</main>
+<div class="nextprev"><a class="button" href="grade-7.html">← Grade 7</a><a class="button" href="grade-9.html">Grade 9 →</a></div>
+<footer>Ontario curriculum learning companion. Not an official Ministry of Education publication.</footer>
+<script src="grade8-data.js"></script><script src="grade8-study.js"></script></body></html>
